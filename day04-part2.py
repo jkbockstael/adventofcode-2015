@@ -7,7 +7,7 @@ import hashlib
 # Find the lowest integer suffix that produces a MD5 hash starting with six zeroes
 def find_lowest_suffix(key):
     suffix = 0
-    while (hashlib.md5(bytes(key + str(suffix), 'utf-8')).hexdigest()[:6] != '000000'):
+    while (not hashlib.md5(bytes(key + str(suffix), 'utf-8')).hexdigest().startswith('000000')):
         suffix += 1
     return suffix
 
