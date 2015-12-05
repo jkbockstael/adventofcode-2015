@@ -1,4 +1,4 @@
-# An Advent of Code 2015 - Day 2 - I Was Told There Would Be No Math - Part 2
+# Advent of Code 2015 - Day 2 - I Was Told There Would Be No Math - Part 2
 # http://adventofcode.com/day/2
 
 import sys

@@ -1,4 +1,4 @@
-# An Advent of Code 2015 - Day 3 - Perfectly Spherical Houses in a Vacuum
+# Advent of Code 2015 - Day 3 - Perfectly Spherical Houses in a Vacuum
 # http://adventofcode.com/day/3
 
 import sys

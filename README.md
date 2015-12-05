@@ -1,8 +1,8 @@
-# An Advent of Code - 2015
+# Advent of Code 2015
 
 ## Description
 
-Solutions for the 2015 edition of [an Advent of Code](http://adventofcode.com/).
+Solutions for the 2015 edition of [Advent of Code](http://adventofcode.com/).
 
 ## But it's a game!
 

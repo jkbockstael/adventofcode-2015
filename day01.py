@@ -1,4 +1,4 @@
-# An Advent of Code 2015 - Day 1 - Not Quite Lisp
+# Advent of Code 2015 - Day 1 - Not Quite Lisp
 # http://adventofcode.com/day/1
 
 import sys
