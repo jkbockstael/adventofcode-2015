@@ -36,9 +36,7 @@ def count_lit_lights(lights):
     return sum(map(sum, lights))
 
 # Main
-lights = []
-for x in range(1000):
-    lights.append([False] * 1000)
+lights = [[False for x in range(1000)] for y in range(1000)]
 for instruction in sys.stdin:
     lights = run_instruction(instruction, lights)
 print(count_lit_lights(lights))
