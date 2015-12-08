@@ -17,6 +17,6 @@ $ echo '()())' | python3 day01.py
 5
 ```
 
-## Licence
+## License
 
-MIT, see LICENCE file.
+MIT, see LICENSE file.
