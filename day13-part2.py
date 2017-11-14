@@ -1,5 +1,5 @@
 # Advent of Code 2015 - Day 13 - Knights of the Dinner Table - Part 2
-# http://adventofcode.com/day/13
+# http://adventofcode.com/2015/day/13
 
 from day13 import *
 

@@ -1,5 +1,5 @@
 # Advent of Code 2015 - Day 1 - Not Quite Lisp
-# http://adventofcode.com/day/1
+# http://adventofcode.com/2015/day/1
 
 import sys
 

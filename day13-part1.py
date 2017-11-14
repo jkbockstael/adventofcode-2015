@@ -1,5 +1,5 @@
 # Advent of Code 2015 - Day 13 - Knights of the Dinner Table
-# http://adventofcode.com/day/13
+# http://adventofcode.com/2015/day/13
 
 import sys
 import itertools

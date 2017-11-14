@@ -1,5 +1,5 @@
 # Advent of Code 2015 - Day 10 - Elves Look, Elves Say
-# http://adventofcode.com/day/10
+# http://adventofcode.com/2015/day/10
 
 import sys
 import itertools

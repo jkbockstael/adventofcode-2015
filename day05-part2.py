@@ -1,5 +1,5 @@
 # Advent of Code 2015 - Day 5 - Doesn't He Have Intern-Elves For This? - Part 2
-# http://adventofcode.com/day/5
+# http://adventofcode.com/2015/day/5
 
 import sys
 

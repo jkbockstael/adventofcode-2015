@@ -1,5 +1,5 @@
 # Advent of Code 2015 - Day 12 - JSAbacusFramework.io
-# http://adventofcode.com/day/12
+# http://adventofcode.com/2015/day/12
 
 import sys
 import re

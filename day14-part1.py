@@ -1,5 +1,5 @@
 # Advent of Code 2015 - Day 14 - Reindeer Olympics
-# http://adventofcode.com/day/14
+# http://adventofcode.com/2015/day/14
 
 import sys
 

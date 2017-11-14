@@ -1,5 +1,5 @@
 # Advent of Code 2015 - Day 7 - Some Assembly Required
-# http://adventofcode.com/day/7
+# http://adventofcode.com/2015/day/7
 
 import sys
 

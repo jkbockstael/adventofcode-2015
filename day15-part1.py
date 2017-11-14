@@ -1,5 +1,5 @@
 # Advent of Code 2015 - Day 15 - Science for Hungry People
-# http://adventofcode.com/day/15
+# http://adventofcode.com/2015/day/15
 
 import sys
 import operator

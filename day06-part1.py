@@ -1,5 +1,5 @@
 # Advent of Code 2015 - Day 6 - Probably a Fire Hazard
-# http://adventofcode.com/day/6
+# http://adventofcode.com/2015/day/6
 
 import sys
 
