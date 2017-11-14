@@ -74,5 +74,6 @@ def u16(integer):
     return integer & 0xFFFF
 
 # Main
-circuit = parse_input(sys.stdin.readlines())
-print(u16(solve_for(circuit, {}, 'a')))
+if __name__ == '__main__':
+    circuit = parse_input(sys.stdin.readlines())
+    print(u16(solve_for(circuit, {}, 'a')))
