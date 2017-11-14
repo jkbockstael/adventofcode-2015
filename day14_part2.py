@@ -2,7 +2,7 @@
 # http://adventofcode.com/2015/day/14
 
 import sys
-from day14 import *
+from day14_part1 import *
 
 # Calculate the accumulated points gained along the race
 def points_gained(reindeers, time):

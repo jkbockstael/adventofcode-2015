@@ -1,7 +1,7 @@
 # Advent of Code 2015 - Day 13 - Knights of the Dinner Table - Part 2
 # http://adventofcode.com/2015/day/13
 
-from day13 import *
+from day13_part1 import *
 
 # Add me to the guests list, as a neutral element
 def add_me(guests):

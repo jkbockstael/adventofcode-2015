@@ -2,7 +2,7 @@
 # http://adventofcode.com/2015/day/10
 
 import sys
-from day10 import *
+from day10_part1 import *
 
 # Main
 print(len(repeat(look_and_say, sys.stdin.readline().strip(), 50)))

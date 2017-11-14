@@ -2,7 +2,7 @@
 # http://adventofcode.com/2015/day/11
 
 import sys
-from day11 import next_valid_password
+from day11_part1 import next_valid_password
 
 # Main
 print(next_valid_password(next_valid_password(sys.stdin.readline().strip())))
