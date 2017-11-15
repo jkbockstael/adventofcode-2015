@@ -15,9 +15,9 @@ def parse_graph(distances):
         graph[(destination, origin)] = length
     return graph
 
-# Find the longest tour through all the cities
+# Compute tour distances through all the cities
 # The problem input size is small enought to allow this rather inelegant brute force approach
-def shortest_tour(graph):
+def tour_distances(graph):
     tours = itertools.permutations(set([x for x, y in graph.keys()]))
     lengths = []
     for tour in tours:
@@ -25,8 +25,9 @@ def shortest_tour(graph):
         for i in range(len(tour) - 1):
             length += graph[(tour[i], tour[i + 1])]
         lengths.append(length)
-    return min(lengths)
+    return lengths
 
 # Main
-graph = parse_graph(sys.stdin.readlines())
-print(shortest_tour(graph))
+if __name__ == '__main__':
+    graph = parse_graph(sys.stdin.readlines())
+    print(min(tour_distances(graph)))
